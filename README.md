@@ -1,4 +1,4 @@
-## Hi Im Jordan Naidoo
+## Hi I'm Jordan Naidoo
 
 <!--
 🎓 Software Engineering Student at Belgium Campus iTversity 
@@ -18,5 +18,6 @@ o         Cloud: AWS, Azure, Supabase
 
 [Cleaning management system] https://github.com/prg381University/University-Cleaning-Inventory-Issuance-System
 
-https://github.com/FreerkvdB/PRG281
+[Stock Inventory System for Small Shops] https://github.com/FreerkvdB/PRG281
+
 -->
