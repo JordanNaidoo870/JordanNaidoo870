@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi Im Jordan Naidoo
 
 <!--
-**JordanNaidoo870/JordanNaidoo870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at Belgium Campus iTversity 
+🌱 Passionate about AI, IoT, Databases and Sustainable Tech 
+💼 Seeking internship/graduate opportunities in software development and data science
+🚀 Skills
 
-Here are some ideas to get you started:
+o        Programming: Python, Java, C++, JavaScript, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+o        Tools: Git, Docker, Power BI, Arduino
+
+o         Cloud: AWS, Azure, Supabase 
+
+
 -->
