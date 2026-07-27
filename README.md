@@ -22,7 +22,7 @@ o         Cloud: AWS, Azure, Supabase
 
 
 📄 CV
- [Download My CV] 
+ [Download My CV] https://cold-dust-755.linkyhost.com
  
 💼 Linkedin
  www.linkedin.com/in/jordan-naidoo-a5a3bb200
