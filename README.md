@@ -2,7 +2,7 @@
 
 <!--
 🎓 Software Engineering Student at Belgium Campus iTversity 
-🌱 Passionate about AI, IoT, Databases and Sustainable Tech 
+🌱 Passionate about AI, IoT, Databases and Data Science
 💼 Seeking internship/graduate opportunities in software development and data science
 🚀 Skills
 
@@ -20,4 +20,7 @@ o         Cloud: AWS, Azure, Supabase
 
 [Stock Inventory System for Small Shops] https://github.com/FreerkvdB/PRG281
 
+
+📄 CV
+ [Download My CV] 
 -->
