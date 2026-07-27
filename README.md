@@ -12,5 +12,11 @@ o        Tools: Git, Docker, Power BI, Arduino
 
 o         Cloud: AWS, Azure, Supabase 
 
+📂 Projects
 
+[Event ticketing Platform] https://github.com/Michael-jcr4/Smart_Event_Management_-_Ticketing_Platform
+
+[Cleaning management system] https://github.com/prg381University/University-Cleaning-Inventory-Issuance-System
+
+https://github.com/FreerkvdB/PRG281
 -->
