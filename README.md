@@ -23,4 +23,7 @@ o         Cloud: AWS, Azure, Supabase
 
 📄 CV
  [Download My CV] 
+ 
+💼 Linkedin
+ www.linkedin.com/in/jordan-naidoo-a5a3bb200
 -->
